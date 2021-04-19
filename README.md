@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20Programmer;Always%20learning%20new%20things&center=true&width=380&height=50">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20Programmer;%20CurrentCompany%20Great%20Software%20Laboratory;Always%20learning%20new%20things&center=true&width=380&height=50">
 </p>
 
 ### Languages
