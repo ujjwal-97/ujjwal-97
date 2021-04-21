@@ -37,13 +37,19 @@
 [![BucketIt](https://img.shields.io/badge/-BucketIt-000?&logo=bitbucket)](https://github.com/ujjwal-97/BucketIt-Frontend)
 [![LinkedIn-Clone](https://img.shields.io/badge/-LinkedIn_Clone-000?&logo=linkedin)](https://github.com/ujjwal-97/BucketIt-Frontend)
 
-## 🔥 Streak stats
+### 🔥 &nbsp;Streak stats
 
 <p align="center">
   <a href="https://github.com/ujjwal-97/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ujjwal Gautam's streak" src="http://github-readme-streak-stats.herokuapp.com?user=ujjwal-97&theme=gotham&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
-<a href="https://github.com/ujjwal-97/github-readme-activity-graph"><img alt="Ujjwal Gautam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ujjwal-97&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ujjwal-97">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ujjwal-97&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujjwal-97&layout=compact&langs_count=10&theme=gotham"/>
+</a>
+</p>
