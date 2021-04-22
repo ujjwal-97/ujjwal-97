@@ -36,6 +36,7 @@
 
 [![BucketIt](https://img.shields.io/badge/-BucketIt-000?&logo=bitbucket)](https://github.com/ujjwal-97/BucketIt-Frontend)
 [![LinkedIn-Clone](https://img.shields.io/badge/-LinkedIn_Clone-000?&logo=linkedin)](https://github.com/ujjwal-97/BucketIt-Frontend)
+[![Task-Manager](https://img.shields.io/badge/-Task_Manager-000?&logo=todoist)](https://github.com/ujjwal-97/Task-Manager)
 
 ### 🔥 &nbsp;Streak stats
 
